@@ -1,0 +1,3 @@
+- for findpaths.py, test whether cpython/cython could be faster than pypy
+- see if we can parallelize findpaths.py using threads and shared memory?
+- see if we can add ASCII art depictions of the various test graphs
